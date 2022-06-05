@@ -1,4 +1,4 @@
-######INSTANTBK BY NUNZI LORENZO######
+######INSTANTBK######
 ######https://github.com/nunzilor######
 
 import shutil

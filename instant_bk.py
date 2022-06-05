@@ -8,7 +8,7 @@ import pathlib
 print()
 print("###################START SCRIPT###################")
 print()
-print("###################INSTANTBK By NUNZI LORENZO###################")
+print("###################INSTANTBK###################")
 print()
 # ricavo nome user e lo converto stringa
 nome_os= (Path.home())

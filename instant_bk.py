@@ -46,7 +46,7 @@ def question():
         if any(answer.lower() == f for f in ["yes", 'y', '1', 'ye']):
             
            
-            path_thunder = "\AppData\Roaming\Thunderbird\\"
+            path_thunder = r"\AppData\Roaming\Thunderbird\\"
             src =  nome_os_str + path_thunder
             dest_aggiunta = "\B_thudner"
             dest = path + dest_aggiunta
@@ -81,7 +81,7 @@ def question():
         if any(answer.lower() == f for f in ["yes", 'y', '1', 'ye']):
             
            
-            path_chrome = "\AppData\Local\Google\\"
+            path_chrome = r"\AppData\Local\Google\\"
             src2 =  nome_os_str + path_chrome
             dest_aggiunta = "\B_chrome"
             dest2 = path + dest_aggiunta
